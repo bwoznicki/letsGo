@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# compiled C
+a.out
+a.exe
+
+# compiled GO
+increment
